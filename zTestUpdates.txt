@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is a test update file.
 update 2
 Steve updated this
+=======
+Hello Bob and Steve.
+>>>>>>> 59994283cec07f0c95e437084c43e337eb397fb0
